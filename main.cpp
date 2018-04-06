@@ -4,8 +4,9 @@ using namespace std;
 
 
 int main(){
-	cout << "Welcome\n";
+
+	cout << "Welcome to GitHub !\n";
 	cout << "Hello world!";
-	
+
 	return 0;
 }
